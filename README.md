@@ -5,7 +5,7 @@
 </p>
 <p>NASA aims to expand human knowledge about space, Earth, and the solar system while developing technology for future exploration missions. Key problems include climate change monitoring, planetary exploration, human safety in space, and technological advancements for scientific research. NASA is currently working on several high priority projects aimed at solving key scientific and exploratory challenges. Some of the major initiatives includes:
 
-  1. <a href="https://youtu.be/7XzhtWcepos?si=sO56buOHcS83pUUG"> ArtemisProgram</a>
+  1. <a href="https://youtu.be/7XzhtWcepos?si=sO56buOHcS83pUUG"> ArtemisProgram</a> - Goal is to return humans to the Moon and establish a sustainable presence by 2025, ultimately paving the way for Mars exploration. Challenges are developing new technologies for lunar surface habitats, spacecraft like the Orion capsule, and the Space launch System (SLS), as well as the Human Landing System (HLS)
 </p>
 
 
