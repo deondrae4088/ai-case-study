@@ -59,4 +59,4 @@ References:
 9.  https://dragonfly.jhuapl.edu/
 10.  https://www.nasa.gov/?search=Artificial+Intelligence&content_type=post
 11.  https://www.nasa.gov/science-research/heliophysics/nasa-enabled-ai-predictions-may-give-time-to-prepare-for-solar-storms/
-12.  https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasa-explores-artificial-intelligence-for-space-communications/)
+12.  https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasa-explores-artificial-intelligence-for-space-communications/
