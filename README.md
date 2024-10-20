@@ -10,5 +10,10 @@
   3. <a href="https://dragonfly.jhuapl.edu/"> Dragonfly</a> - Dragonfly will deliver the most expansive suite of science instruments ever dispatched to another celestial body. Dragonfly will cover more than 50 miles of the organics-rich Tian surface, landing, collecting and returning results that could change our understanding of life in the universe.</p>
 <p>NASA's intended customers include U.S. citizens, researchers, educators, and international partners. The market size can be considered broad as it includes a multitude of stakeholders interested in  space science, education, climate research, and international collaboration. The global space industry, as a whole, is valued at hundreds of billions of dollars.
 During the 20th century NASA's unfair advantage lies in its extensive expertise, historical experience, and comprehensive infrastructure for space exploration and research. This includes access to advanced technology, a vast network of partnerships, and a rich pool of talent from scientists, engineers, and astronauts. Incorporating Spacecraft and Satellites: For Earth observations and space exploration. Robotics: For Mars rovers and robotic missions. Artificial Intelligence: For data analysis and mission planning. Advanced materials and propulsion systems: For ongoing and future missions. 
-These technologies are implemented through numerous projects, such as Artemis for lunar exploration and the Mars Perseverance rover mission.
+These technologies are implemented through numerous projects, such as Artemis for lunar exploration and the Mars Perseverance rover mission.There has been major trends in innovation over the last 5 to 10 years within NASA and these are:<p>
+  - Increased privatization of space travel by companies like SpaceX and Blue Origin.</p>
+  <p>- Advancements in satellite technology and miniaturization.</p>
+  <p>- Growing interest in Mars and lunar exploration.</p>
+- Development of reusable rocket technology.
+- Expansion of earth observation capabilities for climate monitoring.
 </p> 
